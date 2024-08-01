@@ -1,0 +1,7 @@
+# executables (no extension files):
+*
+!*.*
+!*/
+!Makefile
+
+.vscode/
